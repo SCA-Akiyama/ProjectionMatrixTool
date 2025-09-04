@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProjectionMatrixTool.cpp.obj": [
+			"ProjectionMatrixTool.init.gen.cpp.obj",
+			"ProjectionMatrixToolBPLibrary.gen.cpp.obj",
+			"ProjectionMatrixTool.cpp.obj",
+			"ProjectionMatrixToolBPLibrary.cpp.obj"
+		]
+	}
+}

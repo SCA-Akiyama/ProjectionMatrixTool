@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\tst2025winterclock\\tst2025\\plugins\\projectionmatrixtool\\source\\projectionmatrixtool\\private\\projectionmatrixtool.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\tst2025winterclock\\tst2025\\intermediate\\build\\win64\\x64\\tst2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\tst2025winterclock\\tst2025\\plugins\\projectionmatrixtool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectionmatrixtool\\definitions.projectionmatrixtool.h",
+            "d:\\projects\\tst2025winterclock\\tst2025\\plugins\\projectionmatrixtool\\source\\projectionmatrixtool\\public\\projectionmatrixtool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
